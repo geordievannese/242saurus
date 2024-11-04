@@ -22,18 +22,19 @@ slorber:
     github: slorber
     newsletter: https://thisweekinreact.com
 
+geordievannese:
+  name: Geordie Vannese Hardjanto
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/geordievannese
+  image_url: https://github.com/geordievannese.png
+  socials:
+    github: geordievannese
+
 izzydharma:
-  name: Izzy Dharma
-  title: izzydharma
+  name: Made Izzy Prema Dharma
+  title: CS Student in Universitas Indonesia
   url: https://github.com/izzydharma
   image_url: https://github.com/izzydharma.png
   socials:
     github: izzydharma
 
-geordievannese:
-  name: geordievannese
-  title: geordievannese
-  url: https://github.com/geordievannese
-  image_url: https://github.com/geordievannese.png
-  socials:
-    github: geordievannese
